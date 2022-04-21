@@ -2,4 +2,4 @@
 
 Run python test.py
 
-install scapy with all models
+install scapy with all language models
